@@ -1,0 +1,19 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "image": "Panamax.jpg",
+            "name": "Panamax"
+        },
+        {
+            "id": 2,
+            "image": "Suezmax.jpg",
+            "name": "Suezmax"
+        },
+        {
+            "id": 3,
+            "image": "Malaccamax.jpg",
+            "name": "Malaccamax"
+        }
+    ]
+}
