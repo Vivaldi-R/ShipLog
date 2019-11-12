@@ -2,18 +2,18 @@
     "categories": [
         {
             "id": 1,
-            "image": "Panamax.jpg",
-            "name": "Panamax"
+            "image": "Container.jpg",
+            "name": "Container"
         },
         {
             "id": 2,
-            "image": "Suezmax.jpg",
-            "name": "Suezmax"
+            "image": "Tanker.jpg",
+            "name": "Tanker"
         },
         {
             "id": 3,
-            "image": "Malaccamax.jpg",
-            "name": "Malaccamax"
+            "image": "Bulk Carrier.jpg",
+            "name": "Bulk Carrier"
         }
     ]
 }
