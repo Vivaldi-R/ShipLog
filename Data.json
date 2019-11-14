@@ -15,5 +15,301 @@
             "image": "Bulk Carrier.jpg",
             "name": "Bulk Carrier"
         }
-    ]
+    ],
+    "Items": [{
+        "id": 2343243,
+        "categoryId": 1,
+        "name": "Panamax",
+        "price": 20000000000,
+        "details":{
+            "photos":[{
+                "url" : "https://www.joc.com/sites/default/files/field_feature_image/Panama.png",
+                "caption": "Panamax Ship"
+            }],
+            "description": "Ships with permitable dimensions to cross Panama Canal",
+            "specs": [{
+                "key": "LOA",
+                "value": "264 m"
+            },
+            {
+                "key": "Beam",
+                "value": "32,25 m"
+            },
+            {
+                "key": "Draft",
+                "value": "12,50 m"
+            }, 
+            {
+                "key": "Deadweight",
+                "value": "52.000 tonnes"
+            },
+            {
+                "key": "Fuel Consumption",
+                "value": "180 tonnes / day"
+            },
+            {
+                "key": "Speed",
+                "value": "13 knots"
+            }]
+        }   
+    },
+    {
+        "id": 2343244,
+        "categoryId": 1,
+        "name": "Suezmax",
+        "price": 20000000000,
+        "details":{
+            "photos":[{
+                "url" : "http://www.shipspotting.com/photos/middle/6/3/1/1567136.jpg",
+                "caption": "Suezmax Ship"
+            }],
+            "description": "Ships with permitable dimensions to cross Suez Canal",
+            "specs": [{
+                    "key": "LOA",
+                    "value": "275 m"
+                },
+                {
+                    "key": "Beam",
+                    "value": "48 m"
+                },
+                {
+                    "key": "Draft",
+                    "value": "16,20 m"
+                },
+                {
+                    "key": "Deadweight",
+                    "value": "150.000 tonnes"
+                }, 
+                {
+                    "key": "Fuel Consumption",
+                    "value": "250 tonnes / day"
+                },
+                {
+                    "key": "Speed",
+                    "value": "18 knots"
+                }]
+        }   
+    },
+    {
+        "id": 2343245,
+        "categoryId": 1,
+        "name": "Malaccaamax",
+        "price": 20000000000,
+        "details":{
+            "photos":[{
+                "url" : "http://maritime-connector.com/images/maersktriplecclass-16-wiki-18638.jpg",
+                "caption": "Malaccamax Ship"
+            }],
+            "description": "Ships with permitable dimensions to cross Malacca Strait",
+            "specs": [{
+                "key": "LOA",
+                "value": "400 m"
+            },
+            {
+                "key": "Beam",
+                "value": "59 m"
+            },
+            {
+                "key": "Draft",
+                "value": "14,5 m"
+            }, 
+            {
+                "key": "Deadweight",
+                "value": "165.000 tonnes"
+            },
+            {
+                "key": "Fuel Consumption",
+                "value": "255 tonnes / day"
+            },
+            {
+                "key": "Speed",
+                "value": "19 knots"
+            }]
+        }   
+    },
+    {
+        "id": 2343246,
+        "categoryId": 2,
+        "name": "VLCC",
+        "price": 20000000000,
+        "details":{
+            "photos":[{
+                "url" : "http://www.bairdmaritime.com/wp-content/uploads/media/k2/items/src/5ea8097f9796a0bc1d24d672525a1a0b.jpg",
+                "caption": "VLCC Tanker"
+            }],
+            "description": "Ships for Very Large Crude Carrier",
+            "specs": [{
+                "key": "LOA",
+                "value": "333 m"
+            },
+            {
+                "key": "Beam",
+                "value": "58 m"
+            },
+            {
+                "key": "Draft",
+                "value": "11,50 m"
+            }, 
+            {
+                "key": "Deadweight",
+                "value": "160.000 tonnes"
+            },
+            {
+                "key": "Fuel Consumption",
+                "value": "128 tonnes / day"
+            },
+            {
+                "key": "Speed",
+                "value": "13 knots"
+            }]
+        }   
+    },
+    {
+        "id": 2343247,
+        "categoryId": 2,
+        "name": "ULCC",
+        "price": 20000000000,
+        "details":{
+            "photos":[{
+                "url" : "http://www.aukevisser.nl/supertankers/1226203f0.jpg",
+                "caption": "ULCC Ship"
+            }],
+            "description": "Ships for Ultra Large Crude Carrier",
+            "specs": [{
+                "key": "LOA",
+                "value": "458,45 m"
+            },
+            {
+                "key": "Beam",
+                "value": "68,80 m"
+            },
+            {
+                "key": "Draft",
+                "value": "24,60 m"
+            }, 
+            {
+                "key": "Deadweight",
+                "value": "564,76 m"
+            },
+            {
+                "key": "Consumption",
+                "value": "158,40 tonnes / day"
+            },
+            {
+                "key": "Speed",
+                "value": "16,50 knots"
+            }]
+        }   
+    },
+    {
+        "id": 2343248,
+        "categoryId": 3,
+        "name": "Basic/Conventional",
+        "price": 20000000000,
+        "details":{
+            "photos":[{
+                "url" : "https://www.marineinsight.com/wp-content/uploads/2014/04/bulk-carrier.jpg",
+                "caption": "Basic / Conventional Bulk Carrier"
+            }],
+            "description": "Ships built with hatchways, cranes and transporters",
+            "specs": [{
+                "key": "LOA",
+                "value": "190 m"
+            },
+            {
+                "key": "Beam",
+                "value": "32 m"
+            },
+            {
+                "key": "Draft",
+                "value": "10 m"
+            }, 
+            {
+                "key": "Deadweight",
+                "value": "52.501 tonnes"
+            },
+            {
+                "key": "Consumption",
+                "value": "200 tons / day"
+            },
+            {
+                "key": "Speed",
+                "value": "14,50 knots"
+            }]
+        }   
+    }, 
+    {
+        "id": 2343249,
+        "categoryId": 3,
+        "name": "Self-Discharge",
+        "price": 20000000000,
+        "details":{
+            "photos":[{
+                "url" : "http://maritime-connector.com/ships_uploads/fitnes-9490105-self_discharging_bulk_carrier-8-174924.jpg",
+                "caption": "Self-Discharge Bulk Carrier"
+            }],
+            "description": "Ships that can self discharge its cargo without requiring any shore-based systems",
+            "specs": [{
+                "key": "LOA",
+                "value": "176 m"
+            },
+            {
+                "key": "Beam",
+                "value": "26 m"
+            },
+            {
+                "key": "Draft",
+                "value": "8,70 m"
+            }, 
+            {
+                "key": "Deadweight",
+                "value": "33.169 tonnes"
+            },
+            {
+                "key": "Consumption",
+                "value": "270 tons / day"
+            },
+            {
+                "key": "Speed",
+                "value": "19,90 knots"
+            }]
+        }   
+    },
+    {
+        "id": 2343250,
+        "categoryId": 3,
+        "name": "Gearless",
+        "price": 20000000000,
+        "details":{
+            "photos":[{
+                "url" : "http://www.algonet.com/wp-content/uploads/2018/06/Harvester-795x325.jpg",
+                "caption": "Gearless Bulk Carrier"
+            }],
+            "description": "Ships unequipped with cranes and conveyor facilities",
+            "specs": [{
+                "key": "LOA",
+                "value": "225,55 m"
+            },
+            {
+                "key": "Beam",
+                "value": "24 m"
+            },
+            {
+                "key": "Draft",
+                "value": "8 m"
+            }, 
+            {
+                "key": "Deadweight",
+                "value": "38.509 tonnes"
+            },
+            {
+                "key": "Consumption",
+                "value": "100 tons / day"
+            },
+            {
+                "key": "Speed",
+                "value": "12 knots"
+            }]
+        }   
+    }]
 }
