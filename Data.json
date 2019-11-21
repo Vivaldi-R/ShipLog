@@ -2,17 +2,17 @@
     "categories": [
         {
             "id": 1,
-            "image": "Container.jpg",
+            "image": "image/cargo_ship.jpg",
             "name": "Container"
         },
         {
             "id": 2,
-            "image": "Tanker.jpg",
+            "image": "image/tanker_ship.jpg",
             "name": "Tanker"
         },
         {
             "id": 3,
-            "image": "Bulk Carrier.jpg",
+            "image": "image/bulkcarrier_ship.jpg",
             "name": "Bulk Carrier"
         }
     ],
